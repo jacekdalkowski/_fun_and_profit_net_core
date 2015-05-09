@@ -1,7 +1,0 @@
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\EvilPlugin\bin\Debug\EvilPlugin.dll
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\EvilPlugin\bin\Debug\EvilPlugin.pdb
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\EvilPlugin\bin\Debug\PluginInterfaces.dll
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\EvilPlugin\bin\Debug\PluginInterfaces.pdb
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\EvilPlugin\obj\Debug\EvilPlugin.csprojResolveAssemblyReference.cache
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\EvilPlugin\obj\Debug\EvilPlugin.dll
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\EvilPlugin\obj\Debug\EvilPlugin.pdb

@@ -1,7 +1,0 @@
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\OriginalPlugin\bin\Debug\OriginalPlugin.dll
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\OriginalPlugin\bin\Debug\OriginalPlugin.pdb
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\OriginalPlugin\bin\Debug\PluginInterfaces.dll
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\OriginalPlugin\bin\Debug\PluginInterfaces.pdb
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\OriginalPlugin\obj\Debug\OriginalPlugin.csprojResolveAssemblyReference.cache
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\OriginalPlugin\obj\Debug\OriginalPlugin.dll
-C:\Dev\Fun\dotNET\NETInfrastructure\CodeAccessSecurity\OriginalPlugin\obj\Debug\OriginalPlugin.pdb
